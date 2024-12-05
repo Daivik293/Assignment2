@@ -1,0 +1,38 @@
+/* Name: Daivik Desai, Student Number:9032891 */
+
+header, footer{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px;
+    text-align: center;
+    background-color: #4169E1;
+    clear: both;
+}
+
+nav{
+    background-color: antiquewhite;
+    margin: 2px; 
+ 
+}
+
+nav ul{
+    display: flex;
+    flex: 2;
+    flex-direction: row;
+}
+
+nav ul li{
+    display: flex;
+    flex: 1;
+    justify-content: space-evenly;
+}
+h1, h2{
+    color: orange;
+    font-variant: small-caps;
+}
+
+.video{
+    width: 1450px;
+    height: 815.63px;
+}
